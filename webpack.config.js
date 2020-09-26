@@ -23,7 +23,7 @@ const config = {
     entry: './index',
     output: {
         filename: 'app.js',
-        path: join(__dirname, 'docs'),
+        path: __dirname,
     },
     plugins: [
         new HTMLPlugin({
