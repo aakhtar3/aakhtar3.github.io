@@ -23,12 +23,12 @@ const config = {
     entry: './index',
     output: {
         filename: 'app.js',
-        path: __dirname,
+        path: join(__dirname, '..'),
     },
     plugins: [
         new HTMLPlugin({
             template: 'index.html',
-            favicon: '../public/favicon.ico'
+            favicon: '../../public/favicon.ico'
         }),
         new MiniCssExtractPlugin({
             filename: 'style.css',
