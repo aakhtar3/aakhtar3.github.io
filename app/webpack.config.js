@@ -1,6 +1,8 @@
 const { join } = require('path')
 const HTMLPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const TerserJSPlugin = require('terser-webpack-plugin');
+const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 
 // Define loaders
 const loaders = {
@@ -24,6 +26,9 @@ const config = {
     output: {
         filename: 'app.js',
         path: join(__dirname, '..'),
+    },
+    optimization: {
+        minimizer: [new TerserJSPlugin({}), new OptimizeCSSAssetsPlugin({})],
     },
     plugins: [
         new HTMLPlugin({
