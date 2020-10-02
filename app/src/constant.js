@@ -50,22 +50,22 @@ const SKILLS = {
 }
 
 const PHOTOGRAPHY = [{
-  content: 'Photographer',
+  content: '',
   path: '../../public/Images/Photos/01.jpg',
   color: 'white-text dark-outline',
   placement: 'left'
 }, {
-  content: 'Stylist',
+  content: '',
   path: '../../public/Images/Photos/02.jpg',
   color: 'white-text dark-outline',
   placement: 'left'
 }, {
-  content: 'Designer',
+  content: '',
   path: '../../public/Images/Photos/03.jpg',
   color: 'white-text dark-outline',
   placement: 'left'
 }, {
-  content: '@a2zfashion',
+  content: '',
   path: '../../public/Images/Photos/04.jpg',
   color: 'green-text-color dark-outline',
   placement: 'left'
