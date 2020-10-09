@@ -1,12 +1,13 @@
 # Full Page
 
-Work in progress
+Documentation is a work in progress...
 
 Source code is in /app
 
 ## TODO
 
 ### Tests
+
 unit
 e2e
 
