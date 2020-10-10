@@ -12,3 +12,5 @@ unit
 e2e
 
 ### Workflows
+
+JSON update trigger new build
