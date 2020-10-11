@@ -8,8 +8,8 @@ Source code is in /app
 
 ### Tests
 
-unit
-e2e
+unit - jest
+e2e - cucumber
 
 ### Workflows
 
