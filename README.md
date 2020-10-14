@@ -15,3 +15,5 @@ e2e - cucumber
 
 JSON update trigger new build
 Assets
+
+## License
