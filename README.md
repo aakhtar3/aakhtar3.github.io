@@ -17,3 +17,6 @@ JSON update trigger new build
 Assets
 
 ## License
+Full open source
+
+## Docs
