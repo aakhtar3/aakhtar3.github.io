@@ -21,3 +21,4 @@ Full open source
 
 ## Docs
 How to use
+jsdocs
