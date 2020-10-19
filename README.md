@@ -25,3 +25,4 @@ jsdocs
 
 # Typescript
 lint
+tests
