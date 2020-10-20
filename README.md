@@ -26,3 +26,5 @@ jsdocs
 # Typescript
 lint
 tests
+
+# Package.json
