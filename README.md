@@ -28,3 +28,7 @@ lint
 tests
 
 # Package.json
+
+
+# README
+Badges
