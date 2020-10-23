@@ -40,3 +40,4 @@ Add projects
 # Integrate
 sonar
 snyk
+codcov
