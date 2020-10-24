@@ -41,3 +41,4 @@ Add projects
 sonar
 snyk
 codcov
+Workflows
