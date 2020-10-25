@@ -42,3 +42,4 @@ sonar
 snyk
 codcov
 Workflows
+standard lint
