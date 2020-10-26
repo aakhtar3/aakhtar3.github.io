@@ -28,7 +28,7 @@ lint
 tests
 
 # Package.json
-
+git cz
 
 # README
 Badges
