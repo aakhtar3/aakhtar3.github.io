@@ -32,7 +32,7 @@ git cz
 
 # README
 Badges
-
+setup
 
 # Open Source Page
 Add projects
