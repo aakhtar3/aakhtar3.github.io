@@ -29,6 +29,7 @@ tests
 
 # Package.json
 git cz
+Jest
 
 # README
 Badges
@@ -43,3 +44,4 @@ snyk
 codcov
 Workflows
 standard lint
+
