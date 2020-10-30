@@ -30,6 +30,7 @@ tests
 # Package.json
 git cz
 Jest
+semantic without npm
 
 # README
 Badges
