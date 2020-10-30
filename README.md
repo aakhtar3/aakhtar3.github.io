@@ -31,6 +31,7 @@ tests
 git cz
 Jest
 semantic without npm
+sonar
 
 # README
 Badges
