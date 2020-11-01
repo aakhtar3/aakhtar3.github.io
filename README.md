@@ -32,6 +32,7 @@ git cz
 Jest
 semantic without npm
 sonar
+lint
 
 # README
 Badges
