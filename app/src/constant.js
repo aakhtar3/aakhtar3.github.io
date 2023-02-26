@@ -79,6 +79,10 @@ const CONTACT = [{
   media: 'Github',
   path: 'https://github.com/aakhtar3',
   icon: 'fab fa-github'
+}, {
+  media: 'Dev.tO',
+  path: 'https://dev.to/aakhtar3',
+  icon: 'fab fa-dev'
 }]
 
 export {
